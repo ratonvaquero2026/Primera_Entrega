@@ -46,6 +46,10 @@
 		{
 			"Name": "MetaHumanCharacterUAF",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
